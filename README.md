@@ -1,3 +1,3 @@
 # DEPRECATED
 
-Please head over to the [blueforest-theme](https://github.com/lichtzeichner/blueforest-iterm2)!
+Please head over to the [blueforest-theme](https://github.com/lichtzeichner/blueforest-theme)!
